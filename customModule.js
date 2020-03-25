@@ -5,6 +5,7 @@ function returnLast3(str) {
 
 function returnFirst3(str) {
     return str.substr(0, 3);
+    return undefined
 }
 
 // console.log(returnLast3("george stanley is a nice combo"));
